@@ -13,6 +13,6 @@ NumPy is the fundamental package for scientific computing in Python. It is a Pyt
 
 #### for numpy Documentation visit : https://docs.scipy.org/doc/numpy-dev/index.html 
 
-<i>thankyou</i>
+<i>thankyou</i> </br>
 <i>All The Best!!</i>
 
